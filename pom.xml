@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.leidos.xchangecore.core.em</groupId>
+    <groupId>com.leidos.xchangecore.core</groupId>
     <artifactId>xmlbeans-have</artifactId>
     <packaging>jar</packaging>
     <name>com.leidos.xchangecore.core.em.xmlbeans-have</name>
@@ -41,17 +41,17 @@
             <version>2.4.0</version>
         </dependency>
         <dependency>
-            <groupId>com.leidos.xchangecore.core.em</groupId>
+            <groupId>com.leidos.xchangecore.core</groupId>
             <artifactId>xmlbeans-edxl_rm</artifactId>
             <version>1.0.0</version>
         </dependency>
         <dependency>
-            <groupId>com.leidos.xchangecore.core.infrastructure</groupId>
+            <groupId>com.leidos.xchangecore.core</groupId>
             <artifactId>xmlbeans-infrastructure</artifactId>
             <version>1.2.1</version>
         </dependency>
         <dependency>
-            <groupId>com.leidos.xchangecore.core.em</groupId>
+            <groupId>com.leidos.xchangecore.core</groupId>
             <artifactId>xmlbeans-em</artifactId>
             <version>1.1.4</version>
         </dependency>
